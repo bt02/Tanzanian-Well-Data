@@ -6,4 +6,5 @@
 
 ### Distributions of wells
 ![Imgur](https://i.imgur.com/YY4syw2.png)
+
 There are higher populations around the edges of the country along with a high density of non-functional wells. Central Tanzania has the most working wells and with lower average populations. When it come to well that need to be repaired, they tend to be more sporadically located.A trend can begun to be seen with location of well and the population of the surrounding area on the status group of the well
