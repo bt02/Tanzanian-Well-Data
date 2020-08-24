@@ -25,6 +25,8 @@ Of the top three installers of wells used, DWE is the only company to produce mo
 This chart of popular management groups is the first to indicate more functional wells are being observed than not for each individual group. With Funder and Installer organization struggle to produce functioning wells, starts to show management groups as the key part in what will define success. As with the other charts there is a clear leader for who is the most popular individual to contract work out to. There appears to be no indication as to why one specific individual it more prioritized than another.
 
 ## Modeling
+
+
 ## Initial Model - Decision Tree
 ![Imgur](https://i.imgur.com/XIAyVOD.png)
 
@@ -33,6 +35,7 @@ Models Sampled:
 1. Decision Tree
 1. XGBoost
 1. K-Nearest Neigbor 
+
 The first model performance struggled with categorizing “functional needs repair”. In terms of “Functional” and “non-functional” they had good performance for an initial model. With an overall of 74% accuracy and a macro average of 0.62 the mode performed as expected with it not being to exceptional 
 
 ## Final Model – Grid Search Random forest
@@ -43,6 +46,7 @@ Iterations:
 1. Random Forest
 1. Oversample
 1. Undersample
+
 After going through several iterations of decision drees, an optimized grid search random showed to have the highest increase performance. F1-score for “functional need repair” had a minor increase but still had poor performance. This is likely due to the lack of data point within the group. The new mode increased its accuracy by 5% to 79% and increased macro f1-score 0.03 for a final of 0.65
 
 ## Recommendations 
