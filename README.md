@@ -57,6 +57,6 @@ After going through several iterations of decision drees, an optimized grid sear
 ## Future Work
 1. Analyze the amount of money spent per well
 1. Find the number of daily uses per well and its status
-1.Look at the list of materials used for each status group of wells
+1. Look at the list of materials used for each status group of wells
 
 
